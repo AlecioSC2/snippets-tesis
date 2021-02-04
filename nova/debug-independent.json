@@ -1,0 +1,6 @@
+{
+  "name": "TestIndependentContextProcessor",
+  "contentModel": {
+    "test": "Hello"
+  }
+}

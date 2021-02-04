@@ -1,0 +1,22 @@
+{
+  "name": "snippets-tesis",
+  "version": "1.0.0",
+  "description": "Repositorio donde se encuentran los snippets o pedazos de código utilizados en mi Tesis de licenciatura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaleSC2/snippets-tesis.git"
+  },
+  "author": "Pablo Alecio",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/PaleSC2/snippets-tesis/issues"
+  },
+  "homepage": "https://github.com/PaleSC2/snippets-tesis#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
